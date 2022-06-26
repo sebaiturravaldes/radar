@@ -16,6 +16,10 @@ Puedes utilizar recordatorios, pero que mejor que tener tu propio radar, al alca
 - [ ] Evaluar si lo pasamos a una App instalable o lo lanzamos a un dominio en un sitio web.
 - [ ] Agregar el sonido del radar.
 
+## Rap
+
+Mientras desarrollas te recomiendo reproducir lo siguiente: https://www.youtube.com/watch?v=GrzuUCA8v64
+
 ## Inspired by
 
 This code is inspired by [CSS Dragon Ball Radar](https://codepen.io/jsmask/pen/WNwXOmN)
